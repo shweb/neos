@@ -5,7 +5,6 @@
 		</div>
 	</header>
 	<?php print render($page['contenu']); ?>
-	<?php print render($page['tsilana']); ?>
 	<footer>
         <?php print render($page['footer']); ?>
      </footer>
