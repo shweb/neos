@@ -13,7 +13,6 @@
 			<a href="#" class="inner-overlay"><i class="icon-plus"></i></a>
 		</div>
 		<div class="desc">
-			<!--<h3><?php echo $tmp['title']; ?></h3>-->
 			<h3><a href="#">Work Title</a></h3>
 			<span><?php echo $tmp['field_description']; ?></span>
 		</div>

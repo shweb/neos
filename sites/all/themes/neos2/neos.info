@@ -24,9 +24,9 @@ scripts[] = js/bootstrap.min.js
 scripts[] = js/jquery.waypoints.min.js
 scripts[] = js/owl.carousel.min.js
 scripts[] = js/jquery.stellar.min.js
-
-scripts[] = js/main.js
 scripts[] = js/respond.min.js
+scripts[] = js/main.js
+
 
 regions[header] = Header
 regions[imageslide] = Imageslide
