@@ -1,4 +1,5 @@
-<div class="row about">
+<div class="container">
+			<div class="row about">
 				<div class="col-md-10 col-md-offset-1">
 					<img class="img-responsive" src="sites/all/themes/neos2/images/about.jpg" alt="About">
 				</div>
@@ -49,3 +50,4 @@
 					</div>
 				</div>
 			</div>
+		</div>
