@@ -487,21 +487,16 @@ header #fh5co-main-nav > ul li:first-child {
   }
 }
 @media screen and (max-width: 480px) {
-	 .hihi {
- /* margin-bottom: 1.5em;*/
-  font-size: 10px;
-  color: #727272;
-  font-weight: 300;
-  font-family: "Roboto", Arial, serif;
+	.hihi {
+	  font-size: 18px;
+	  color: #727272;
+	  font-weight: 300;
+	  font-family: "Roboto", Arial, serif;
 	}
-  /*.services-num .number-holder {
-    font-size: 50px;
-  }*/
   .services-num .number-holder {
   position: absolute;
   font-size: 20px;
   font-weight: 700;
- /* top: 0;*/
   left: 15px;
   line-height: 50px;
   color: #000;
@@ -512,7 +507,6 @@ header #fh5co-main-nav > ul li:first-child {
   position: absolute;
   font-size: 20px;
   font-weight: 700;
- /* top: 0;*/
   left: 95%;
   line-height: 50px;
   color: #000;
@@ -621,9 +615,10 @@ header #fh5co-main-nav > ul li:first-child {
 	/*margin-bottom: -400px;*/
   }
  	.fhco-hero2 img {
-	  margin-top: 150px;
-	  width: 142px;
-	  height: 293px;
+	  margin-top: -50px;
+	  /*width: 142px;
+	  height: 293px;*/
+	  margin : auto;
 	}
 }
 .fh5co-services {
@@ -708,8 +703,8 @@ header #fh5co-main-nav > ul li:first-child {
 	.fhco-hero2 img {
 	  margin-top: 150px;
 	}*/
-  .fh5co-services-right {
-    margin-bottom: 0;
+  /*.fh5co-services-right {
+    margin-bottom: 40px;
 	text-align:right;
   }
   .fh5co-services-right .holder-section {
@@ -741,23 +736,21 @@ header #fh5co-main-nav > ul li:first-child {
 	  margin-bottom: 8px;
 	  font-weight: 400;
 	  font-size: 12px;
-  }
+  }*/
   .huhu {
-/*  margin-bottom: 1.5em;*/
   font-size: 10px;
   color: #727272;
   font-weight: 300;
   font-family: "Roboto", Arial, serif;
 }
-  /*service*/
+ 
   .huhu {
- /* margin-bottom: 1.5em;*/
   font-size: 10px;
   color: #727272;
   font-weight: 300;
   font-family: "Roboto", Arial, serif;
 }
-  .fh5co-services {
+  /*.fh5co-services {
     margin-bottom: 0;
 	text-align:left;
   }
@@ -790,7 +783,7 @@ header #fh5co-main-nav > ul li:first-child {
 	  margin-bottom: 8px;
 	  font-weight: 400;
 	  font-size: 12px;
-  }
+  }*/
 }
 
 .fh5co-table2-color-2 {
