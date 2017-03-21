@@ -19,9 +19,9 @@
 	$mois= date('F', strtotime($tmp1));
 	$annee= date('Y', strtotime($tmp1));
 ?>
-<div class="col-md-4 blog-section">
+<div class="col-md-4 col-sm-4 col-xs-4 blog-section">
 	<span><?php echo $jour; ?><small><?php echo $mois. " " . $annee; ?></small></span>
 	<h3><?php echo $tmp['title']; ?></h3>
-	<p><?php echo $tmp['field_description_blog']; ?></p>
+	<p class="huhu"><?php echo $tmp['field_description_blog']; ?></p>
 	<a class="btn btn-primary" href="#">READ MORE</a>
 </div>
